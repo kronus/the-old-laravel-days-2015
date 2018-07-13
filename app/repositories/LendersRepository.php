@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Auth;
-use models\Ldst;
+use models\someLendersTable_LENDERS_AND_STATES;
 
 class LendersRepository implements LendersInterface{
 
